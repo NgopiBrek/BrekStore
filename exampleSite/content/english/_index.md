@@ -16,7 +16,7 @@ features:
     content: "BrekStore adalah jasa layanan dan menyediakan berbagai produk digital yang terlengkap dan lain-lain"
     bulletpoints:
       - "Jasa Pembuatan Website"
-      - "Top Up Saldo Dompet Digital (Gopay, Dana, ShopeePay dll)"
+      - "Top Up Saldo Dompet Digital Gopay, Dana, ShopeePay dll"
       - "Top Up Pulsa dan Paket Data"
       - "Jasa Tranfer ke Seluruh Bank"
       - "Jasa Konversi pulsa/saldo"
@@ -29,7 +29,7 @@ features:
   - title: "Jelajahi Layanan di BrekStore"
     image: "/images/service-2.png"
     content: "BrekStore selain melayani jasa berbagai kebutuhan, anda juga dapat memesan produk digital dengan harga yang bersaing:"
-    bulletpoints:"
+    bulletpoints:
       - "Layanan jasa sesuai kebutuhan anda."
       - "Harga produk digital yang terjangkau."
       - "Pembayaran yang sangat lengkap."
