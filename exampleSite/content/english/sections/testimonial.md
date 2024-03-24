@@ -1,29 +1,29 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Apa Kata Mereka Tentang BrekStore"
+description: "Jangan hanya percaya begitu saja - dengarkan pendapat beberapa pengguna kami yang puas! Lihat beberapa testimoni kami di bawah untuk mengetahui apa yang dikatakan orang lain tentang BrekStore."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Mamang Racing"
+    designation: "Pengangguran"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Pelayanan satset tastes."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Udin Modip"
+    designation: "Mahasiswa Abadi"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Sangat membantu untuk melakukan top up game dan paket internet, proses cepat."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Iting"
+    designation: "Calon Pak Rt"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Pelayanan memuaskan harga ramah kantong."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Asep Van Chi"
+    designation: "Saudagar Parabot"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Pembayaran bisa diutang dulu asal udah ngopi bareng."
 
 # don't create a separate page
 _build:
