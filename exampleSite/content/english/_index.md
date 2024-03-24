@@ -29,14 +29,14 @@ features:
   - title: "Jelajahi Layanan di BrekStore"
     image: "/images/service-2.png"
     content: "BrekStore selain melayani jasa berbagai kebutuhan, anda juga dapat memesan produk digital dengan harga yang bersaing:"
-    bulletpoints:
+    bulletpoints:"
       - "Layanan jasa sesuai kebutuhan anda."
       - "Harga produk digital yang terjangkau."
       - "Pembayaran yang sangat lengkap."
     button:
       enable: false
-      label: "Mari Mulai Sekarang"
-      link: "#"
+      label: "Hubungi Kami"
+      link: "https://brekstore.biz.id/contact"
 
   - title: "Alasan Utama memilih BrekStore Untuk Kebutuhan anda"
     image: "/images/service-3.png"
