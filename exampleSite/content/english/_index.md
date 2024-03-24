@@ -41,6 +41,7 @@ features:
   - title: "Alasan Utama Memilih BrekStore"
     image: "/images/service-3.png"
     content: "Dengan BrekStore, Segela kebutuhan layanan jasa dan produk digital anda terpenuhi:
+    bulletpoints:
       - "Harga terjangkau."
       - "Pembayaran yang lengkap."
       - "Proses cepat."
