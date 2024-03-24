@@ -11,41 +11,40 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Apa yang tersedia di BrekStore"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "BrekStore adalah jasa layanan dan menyediakan berbagai produk digital yang terlengkap dan lain-lain"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Jasa Pembuatan Website"
+      - "Top Up Saldo Dompet Digital (Gopay, Dana, ShopeePay dll)"
+      - "Top Up Pulsa dan Paket Data"
+      - "Jasa Tranfer ke Seluruh Bank"
+      - "Jasa Konversi pulsa/saldo"
+      - "**Berbagai Macam Kebutuhanmu** untuk jasa lainnya bisa kontak langsung"
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Mari Mulai Sekarang"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Jelajahi Layanan di BrekStore"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "BrekStore selain melayani jasa berbagai kebutuhan, anda juga dapat memesan produk digital dengan harga yang bersaing:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Layanan jasa sesuai kebutuhan anda."
+      - "Harga produk digital yang terjangkau."
+      - "Pembayaran yang sangat lengkap."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "HUbungi Sekarang"
+      link: "https://brekstore.biz.id/contact"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Alasan Utama memilih BrekStore Untk Kebutuhan anda"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+    content: "Dengan BrekStore segala kebutuhan produk digitl dan layanan digital anda terpenuhi:
+      - "Proses cepat."
+      - "Pilihan pembayaran lengkap."
+      - "Harga Bersaing."
+      - "Pelayanan yang bisa diandalkan."
     button:
       enable: false
       label: ""
