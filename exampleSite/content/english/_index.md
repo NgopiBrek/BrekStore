@@ -38,7 +38,7 @@ features:
       label: "Hubungi Kami"
       link: "https://brekstore.biz.id/contact"
 
-  - title: "Alasan Utama memilih BrekStore Untuk Kebutuhan anda"
+   - title: "Alasan Utama memilih BrekStore Untuk Kebutuhan anda"
     image: "/images/service-3.png"
     content: "Dengan BrekStore segala kebutuhan produk digital dan layanan digital anda terpenuhi:
       - "Proses cepat."
