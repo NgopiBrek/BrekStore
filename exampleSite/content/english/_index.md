@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "HUbungi Sekarang"
-      link: "https://brekstore.biz.id/contact"
+      link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Alasan Utama memilih BrekStore Untuk Kebutuhan anda"
     image: "/images/service-3.png"
