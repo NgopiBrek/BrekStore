@@ -34,9 +34,9 @@ features:
       - "Harga produk digital yang terjangkau."
       - "Pembayaran yang sangat lengkap."
     button:
-      enable: true
-      label: "HUbungi Sekarang"
-      link: "https://s.id/BrekStore"
+      enable: false
+      label: "Mari Mulai Sekarang"
+      link: "#"
 
   - title: "Alasan Utama memilih BrekStore Untuk Kebutuhan anda"
     image: "/images/service-3.png"
