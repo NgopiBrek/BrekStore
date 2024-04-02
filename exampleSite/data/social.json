@@ -6,6 +6,11 @@
       "link": "https://www.facebook.com/brekstore.id"
     },
     {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/BrekStore"
+    },
+    {
       "name": "instagram",
       "icon": "fab fa-instagram",
       "link": "https://www.instagram.com/brekstore.id"
