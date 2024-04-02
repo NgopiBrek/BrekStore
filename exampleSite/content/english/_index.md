@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Lakukan Order"
-    link: "https://s.id/BrekStore"
+    link: "https://order.brekstore.biz.id"
 
 # Features
 features:
