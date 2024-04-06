@@ -2,7 +2,7 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "Beranda"
 pageRef = "/"
 weight = 1
 
@@ -12,13 +12,13 @@ pageRef = "/about"
 weight = 2
 
 [[main]]
-name = "Service"
-pageRef = "/elements"
+name = "Layanan"
+pageRef = "/layanan"
 weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Halaman"
 hasChildren = true
 
 [[main]]
@@ -33,8 +33,8 @@ pageRef = "/contact"
 
 [[main]]
 parent = "Pages"
-name = "Categories"
-pageRef = "/categories"
+name = "Promo"
+pageRef = "/promo"
 
 # footer menu
 [[footer]]
