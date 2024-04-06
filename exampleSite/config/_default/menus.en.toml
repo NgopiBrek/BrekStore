@@ -22,17 +22,17 @@ name = "Halaman"
 hasChildren = true
 
 [[main]]
-parent = "Pages"
+parent = "Halaman"
 name = "Blog"
 pageRef = "/blog"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
+parent = "Halaman"
+name = "Kontak"
 pageRef = "/contact"
 
 [[main]]
-parent = "Pages"
+parent = "Halaman"
 name = "Promo"
 pageRef = "/promo"
 
