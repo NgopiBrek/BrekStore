@@ -1,9 +1,17 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Tentang BrekStore"
 meta_title: "About"
-description: "this is meta description"
-image: "/images/avatar.png"
+description: "BrekStore melayani ppob"
+image: "/images/BrekStore.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+BrekStore adalah agregator layanan digital yang memberikan harga terbaik dari semua layanan ppob yang terpercaya, kami mencari harga terbaik dari layanan ppob.
+
+Kami bermitra dengan order kuota, mitra bukalapak, pulsalapak, speedcash, fastpay dll, layanan agregator akan memilih harga terbaik dari layanan tersebut.
+
+Pembayaran yang sangat lengkap mulai dari qris, transfer bank, virtual account, dll.
+
+BrekStore melayani transaksi digital seperti top up pulsa, paket data, saldo e-wallet, saldo emoney, voucher game, dan masih banyak lagi.
+
+Jika menginginkan layanan digital lainnya bisa hubungi kontak yang ada di menu hubungi kami.
