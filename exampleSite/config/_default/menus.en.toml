@@ -2,17 +2,22 @@
 
 # main menu
 [[main]]
+name = "Beranda"
+pageRef = "/"
+weight = 1
+
+[[main]]
 name = "Tentang"
 pageRef = "/about"
-weight = 1
+weight = 2
 
 [[main]]
 name = "Layanan"
 pageRef = "/layanan"
-weight = 2
+weight = 3
 
 [[main]]
-weight = 3
+weight = 4
 name = "Halaman"
 hasChildren = true
 
