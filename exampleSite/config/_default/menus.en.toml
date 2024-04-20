@@ -2,22 +2,17 @@
 
 # main menu
 [[main]]
-name = "Beranda"
-pageRef = "/"
-weight = 1
-
-[[main]]
 name = "Tentang"
 pageRef = "/about"
-weight = 2
+weight = 1
 
 [[main]]
 name = "Layanan"
 pageRef = "/layanan"
-weight = 3
+weight = 2
 
 [[main]]
-weight = 4
+weight = 3
 name = "Halaman"
 hasChildren = true
 
@@ -33,11 +28,6 @@ pageRef = "/promo"
 
 # footer menu
 [[footer]]
-name = "About"
-pageRef = "/about"
-weight = 1
-
-[[footer]]
 name = "Privacy Policy"
 pageRef = "/privacy-policy"
-weight = 3
+weight = 1
