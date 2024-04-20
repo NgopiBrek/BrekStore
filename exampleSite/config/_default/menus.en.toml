@@ -28,11 +28,6 @@ pageRef = "/blog"
 
 [[main]]
 parent = "Halaman"
-name = "Kontak"
-pageRef = "/contact"
-
-[[main]]
-parent = "Halaman"
 name = "Promo"
 pageRef = "/promo"
 
