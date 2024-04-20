@@ -39,7 +39,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Hubungi Kami"
-link = "https://wa.me/6281908088045"
+link = "https://brekstore.biz.id/contact/"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
