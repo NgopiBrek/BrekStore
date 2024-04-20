@@ -56,8 +56,8 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["ppob", "digital"]
-description = "ppob dan jasa terlengkap"
+keywords = ["ppob", "digital", "pulsa murah", "kuota murah"]
+description = "Brek Store adalah agregator layanan digital yang memberikan harga terbaik dari semua layanan ppob yang terpercaya, kami mencari harga terbaik dari layanan ppob."
 author = "BrekStore"
 image = "images/og-image.png"
 
