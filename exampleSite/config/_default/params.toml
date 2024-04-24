@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Member of [NgopiBrek!](https://ngopibrek.eu.org)"
+copyright = "Member of [NgopiBrek!](https://github.com/NgopiBrek)"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -49,8 +49,8 @@ primary_color = "#121212"
 include_sections = ["blog"]
 show_image = true
 show_description = true
-show_tags = true
-show_categories = true
+show_tags = false
+show_categories = false
 
 
 # seo meta data for OpenGraph / Twitter Card
